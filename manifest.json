@@ -1,0 +1,30 @@
+{
+  "id": "net.saltssaumure.Frostcord",
+  "name": "Frostcord",
+  "description": "Translucent blur for overlay backgrounds.",
+  "author": [
+    {
+      "name": "intergrav",
+      "discordID": "418219211043897344",
+      "github": "intergrav"
+    },
+    {
+      "name": "Saltssaumure",
+      "discordID": "134142022092062720",
+      "github": "Saltssaumure"
+    }
+  ],
+  "version": "2.0.0",
+  "updater": {
+    "type": "store",
+    "id": "net.saltssaumure.Frostcord"
+  },
+  "license": "MIT",
+  "type": "replugged-theme",
+  "main": "scss/frost.scss",
+  "source": "https://github.com/MiniDiscordThemes/Frostcord",
+  "image": [
+    "https://cdn.discordapp.com/attachments/1142305515439923260/1144660960062214186/frostcord-user.png",
+    "https://cdn.discordapp.com/attachments/1142305515439923260/1144660960397770813/frostcord-thread.png"
+  ]
+}
