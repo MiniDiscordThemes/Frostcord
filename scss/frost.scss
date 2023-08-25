@@ -1,0 +1,24 @@
+// User Popout
+.userPopoutOuter-1OHwPL,
+// Old User Popout
+.userPopout-2j1gM4,
+// Chat Menus (emojis, gifs etc)
+.contentWrapper-3vHNP2,
+.contentWrapper-2f9yME,
+// Pinned Messages
+.messagesPopoutWrap-3zryHW,
+// Thread Browser
+.browser-mnQ1T7,
+// Recent Mentions
+.recentMentionsPopout-2bI1ZN,
+// Guild Header Popout
+#guild-header-popout,
+// Search Popout
+.container-2McqkF,
+// Channel Thread Popout
+.floating-3M3WeH,
+// Context menus
+.submenu-3ycVEH {
+    backdrop-filter: blur(var(--frostcord-blur, 16px));
+    filter: opacity(var(--frostcord-opacity, 80%));
+}

@@ -1,17 +1,19 @@
 /**
  * @name Frostcord
- * @version 1.0.1
- * @description Discord theme that simply gives menus a slight blur
- * @author intergrav
- *
- * @website https://intergrav.github.io/frostcord/
- * @source https://github.com/intergrav/frostcord
+ * @author intergrav, Saltssaumure
+ * @authorLink https://github.com/Saltssaumure
+ * @description Translucent blur for overlay backgrounds.
+ * @license MIT
+ * @version 2.0.0
+ * @invite uy8nKQVatp
+ * @source https://github.com/MiniDiscordThemes/Frostcord
+ * @donate https://ko-fi.com/saltssaumure
  */
 
-@import url("https://intergrav.github.io/frostcord/content/source.css");
+ @import url("https://minidiscordthemes.github.io/Frostcord/frost.min.css");
 
+/* See https://github.com/MiniDiscordThemes/Frostcord#customisation for customisation settings. */
 :root {
-    /* General */
-    --blur: 16px; /* Adjust the blur. Default '16px' */
-    --opacity: 90%; /* Adjust the opacity. Default '90%' */
+    --frostcord-blur: 16px;
+    --frostcord-opacity: 80%;
 }
